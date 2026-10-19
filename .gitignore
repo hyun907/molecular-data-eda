@@ -11,3 +11,6 @@
 !/notebooks/
 /notebooks/*
 !/notebooks/molecular_eda.ipynb
+!/assets/
+/assets/*
+!/assets/cover.png
