@@ -1,0 +1,13 @@
+# Only these reviewed source and documentation files are publishable.
+# New files must be reviewed before adding an exception here.
+/*
+!/.gitignore
+!/README.md
+!/build_eda.py
+!/requirements-eda.txt
+!/docs/
+/docs/*
+!/docs/findings.md
+!/notebooks/
+/notebooks/*
+!/notebooks/molecular_eda.ipynb
